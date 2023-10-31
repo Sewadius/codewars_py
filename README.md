@@ -11,6 +11,8 @@
 
 **Debugging**  
 - `Get Planet Name By ID`  
+- `Incorrect division method`
+- `Return to Sanity`
 
 **Fundamentals**  
 - `Hex to Decimal`  
