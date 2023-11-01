@@ -8,6 +8,7 @@
 
 **Arrays**
 - `Array plus array`
+- `Find the first non-consecutive number`  
 
 **Debugging**  
 - `Get Planet Name By ID`  
@@ -16,9 +17,13 @@
 
 **Fundamentals**  
 - `Hex to Decimal`  
+- `Is it even`  
 
 **Lists**  
 - `Flick Swich`
+
+**Mathematics**  
+- `Powers of 2`
 
 **OOP**  
 - `Classy Classes`
