@@ -7,6 +7,7 @@
 - `What is between`
 
 **Arrays**
+- `A Needle in the Haystack`  
 - `Array plus array`
 - `Find the first non-consecutive number`  
 
@@ -16,8 +17,11 @@
 - `Return to Sanity`
 
 **Fundamentals**  
+- `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
 - `Is it even`  
+- `Student's Final Grade`  
+- `Super Duper Easy`  
 
 **Lists**  
 - `Flick Swich`
