@@ -2,6 +2,12 @@
 
 <img src='img/logo.jpeg' style="height:250px">
 
+#### 7 kyu
+**Algorithms**  
+- `Only one`
+
+___
+
 #### 8 kyu  
 **Algorithms**  
 - `What is between`
