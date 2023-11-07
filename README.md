@@ -26,7 +26,9 @@ ___
 - `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
 - `Is it even`  
+- `Rock Paper Scissors`  
 - `Student's Final Grade`  
+- `Sum without highest and lowest number`  
 - `Super Duper Easy`  
 
 **Lists**  
@@ -39,4 +41,6 @@ ___
 - `Classy Classes`
 
 **Strings**  
+- `DNA to RNA Conversion`  
+- `If you can't sleep, just count sheep`  
 - `Is the string uppercase`  
