@@ -10,12 +10,14 @@ ___
 
 #### 8 kyu  
 **Algorithms**  
-- `What is between`
+- `What is between`  
+- `Count the Monkeys`  
 
 **Arrays**
 - `A Needle in the Haystack`  
 - `Array plus array`
 - `Find the first non-consecutive number`  
+- `Sum Mixed Array`  
 
 **Debugging**  
 - `Get Planet Name By ID`  
@@ -44,3 +46,4 @@ ___
 - `DNA to RNA Conversion`  
 - `If you can't sleep, just count sheep`  
 - `Is the string uppercase`  
+- `Remove exclamation marks`  
