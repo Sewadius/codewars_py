@@ -32,9 +32,14 @@ ___
 - `Student's Final Grade`  
 - `Sum without highest and lowest number`  
 - `Super Duper Easy`  
+- `Thinkful Logic Drills Traffic light`
+- `Transportation on vacation`  
 
 **Lists**  
-- `Flick Swich`
+- `Flick Swich`  
+
+**Logic**
+- `L1 Set Alarm`  
 
 **Mathematics**  
 - `Powers of 2`
