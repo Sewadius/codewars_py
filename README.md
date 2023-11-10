@@ -28,6 +28,8 @@ ___
 - `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
 - `Is it even`  
+- `Keep up the hoop`  
+- `Parse nice int from char problem`  
 - `Rock Paper Scissors`  
 - `Student's Final Grade`  
 - `Sum without highest and lowest number`  
@@ -49,6 +51,7 @@ ___
 
 **Strings**  
 - `DNA to RNA Conversion`  
+- `Do I get bonus`  
 - `If you can't sleep, just count sheep`  
 - `Is the string uppercase`  
 - `Remove exclamation marks`  
