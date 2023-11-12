@@ -25,6 +25,7 @@ ___
 - `Return to Sanity`
 
 **Fundamentals**  
+- `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
 - `Is it even`  
@@ -34,7 +35,9 @@ ___
 - `Student's Final Grade`  
 - `Sum without highest and lowest number`  
 - `Super Duper Easy`  
-- `Thinkful Logic Drills Traffic light`
+- `Switch it Up`  
+- `Thinkful Logic Drills Traffic light`  
+- `Third Angle of a Triangle`  
 - `Transportation on vacation`  
 
 **Lists**  
