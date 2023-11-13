@@ -25,14 +25,17 @@ ___
 - `Return to Sanity`
 
 **Fundamentals**  
+- `Alternating case`  
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
 - `Is it even`  
+- `Is it a palindrome`  
 - `Keep up the hoop`  
 - `Parse nice int from char problem`  
 - `Rock Paper Scissors`  
 - `Student's Final Grade`  
+- `Sum The Strings`  
 - `Sum without highest and lowest number`  
 - `Super Duper Easy`  
 - `Switch it Up`  
