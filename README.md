@@ -16,16 +16,19 @@ ___
 **Arrays**
 - `A Needle in the Haystack`  
 - `Array plus array`
-- `Find the first non-consecutive number`  
+- `Find the first non-consecutive number` 
+- `My head is at the wrong end`  
 - `Sum Mixed Array`  
 
 **Debugging**  
+- `Basic variable assignment`  
 - `Get Planet Name By ID`  
 - `Incorrect division method`
 - `Return to Sanity`
 
 **Fundamentals**  
 - `Alternating case`  
+- `Difference of Volumes of Cuboids`  
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello`  
 - `Hex to Decimal`  
