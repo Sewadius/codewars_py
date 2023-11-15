@@ -53,12 +53,14 @@ ___
 - `L1 Set Alarm`  
 
 **Mathematics**  
+- `Count Odd Numbers below n`  
 - `Powers of 2`
 
 **OOP**  
 - `Classy Classes`
 
 **Strings**  
+- `All Star Code Challenge #18`  
 - `DNA to RNA Conversion`  
 - `Do I get bonus`  
 - `If you can't sleep, just count sheep`  
