@@ -24,7 +24,8 @@ ___
 - `Basic variable assignment`  
 - `Get Planet Name By ID`  
 - `Incorrect division method`
-- `Return to Sanity`
+- `Return to Sanity`  
+- `Unfinished Loop`  
 
 **Fundamentals**  
 - `Alternating case`  
