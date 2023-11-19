@@ -31,7 +31,8 @@ ___
 - `Alternating case`  
 - `Difference of Volumes of Cuboids`  
 - `Function 2 squaring an argument`   
-- `Grasshoper - Debug sayHello`  
+- `Grasshoper - Debug sayHello` 
+- `Hello Name or World`  
 - `Hex to Decimal`  
 - `Is it even`  
 - `Is it a palindrome`  
@@ -54,6 +55,7 @@ ___
 - `L1 Set Alarm`  
 
 **Mathematics**  
+- `Convert to Binary`  
 - `Count Odd Numbers below n`  
 - `Powers of 2`
 
@@ -67,3 +69,4 @@ ___
 - `If you can't sleep, just count sheep`  
 - `Is the string uppercase`  
 - `Remove exclamation marks`  
+- `The Wide-Mouthed frog`  
