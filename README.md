@@ -9,9 +9,10 @@
 ___
 
 #### 8 kyu  
-**Algorithms**  
-- `What is between`  
+**Algorithms**
 - `Count the Monkeys`  
+- `Generate range of integers` 
+- `What is between`  
 
 **Arrays**
 - `A Needle in the Haystack`  
@@ -23,6 +24,7 @@ ___
 **Debugging**  
 - `Basic variable assignment`  
 - `Get Planet Name By ID`  
+- `Grasshopper - Debug`  
 - `Incorrect division method`
 - `Return to Sanity`  
 - `Unfinished Loop`  
@@ -48,6 +50,9 @@ ___
 - `Third Angle of a Triangle`  
 - `Transportation on vacation`  
 
+**Geometry**
+- `Surface Area and Volume of a Box`  
+
 **Lists**  
 - `Flick Swich`  
 
@@ -60,7 +65,10 @@ ___
 - `Powers of 2`
 
 **OOP**  
-- `Classy Classes`
+- `Classy Classes`  
+
+**Puzzles**
+- `5 without numbers`
 
 **Strings**  
 - `All Star Code Challenge #18`  
