@@ -4,7 +4,18 @@
 
 #### 7 kyu
 **Algorithms**  
-- `Only one`
+- `Only one`  
+
+**Arrays**
+- `Ones and Zeros`  
+
+**Fundamentals**
+- `Exes and Ohs`  
+- `Friend of Foe`  
+- `Shortest Word`  
+
+**Strings**
+- `Jaden Casing Strings`  
 
 ___
 
