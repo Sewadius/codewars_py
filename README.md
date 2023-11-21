@@ -4,15 +4,21 @@
 
 #### 7 kyu
 **Algorithms**  
+- `Factorial`  
 - `Only one`  
 
 **Arrays**
 - `Ones and Zeros`  
+- `Sum of two lowest positive integers`  
+- `The animals went in two by two`  
 
 **Fundamentals**
 - `Exes and Ohs`  
 - `Friend of Foe`  
 - `Shortest Word`  
+
+**Mathematics**
+- `Is this a triangle`  
 
 **Strings**
 - `Jaden Casing Strings`  
