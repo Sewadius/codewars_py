@@ -35,11 +35,13 @@ ___
 - `A Needle in the Haystack`  
 - `Array plus array`
 - `Find the first non-consecutive number` 
+- `Grasshopper - Array Mean`  
 - `My head is at the wrong end`  
 - `Sum Mixed Array`  
 
 **Debugging**  
 - `Basic variable assignment`  
+- `Fixme Replace all dots`  
 - `Get Planet Name By ID`  
 - `Grasshopper - Debug`  
 - `Incorrect division method`
@@ -53,6 +55,7 @@ ___
 - `Grasshoper - Debug sayHello` 
 - `Hello Name or World`  
 - `Hex to Decimal`  
+- `Is it a number`  
 - `Is it even`  
 - `Is it a palindrome`  
 - `Keep up the hoop`  
