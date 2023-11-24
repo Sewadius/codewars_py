@@ -28,7 +28,9 @@ ___
 #### 8 kyu  
 **Algorithms**
 - `Count the Monkeys`  
+- `Draw stairs`  
 - `Generate range of integers` 
+- `Miles per gallon to kilometers per liter`  
 - `What is between`  
 
 **Arrays**
