@@ -46,6 +46,7 @@ ___
 - `Fixme Replace all dots`  
 - `Get Planet Name By ID`  
 - `Grasshopper - Debug`  
+- `Grasshopper - if else syntax debug`  
 - `Incorrect division method`
 - `Return to Sanity`  
 - `Unfinished Loop`  
@@ -55,6 +56,7 @@ ___
 - `Difference of Volumes of Cuboids`  
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello` 
+- `Grasshopper - Function syntax`  
 - `Hello Name or World`  
 - `Hex to Decimal`  
 - `Is it a number`  
@@ -100,3 +102,4 @@ ___
 - `Is the string uppercase`  
 - `Remove exclamation marks`  
 - `The Wide-Mouthed frog`  
+- `Vowel remover`  
