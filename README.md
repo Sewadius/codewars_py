@@ -49,6 +49,7 @@ ___
 - `Incorrect division method`
 - `Return to Sanity`  
 - `Unfinished Loop`  
+- `Vexing Vanishing Values`  
 
 **Fundamentals**  
 - `Alternating case`  
@@ -84,13 +85,15 @@ ___
 **Mathematics**  
 - `Convert to Binary`  
 - `Count Odd Numbers below n`  
-- `Powers of 2`
+- `Powers of 2`  
+- `Quadrants`  
 
 **OOP**  
 - `Classy Classes`  
 
 **Puzzles**
-- `5 without numbers`
+- `5 without numbers`  
+- `Byte me`  
 
 **Strings**  
 - `All Star Code Challenge #18`  
