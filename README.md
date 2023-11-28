@@ -55,6 +55,8 @@ ___
 **Fundamentals**  
 - `Alternating case`  
 - `Difference of Volumes of Cuboids`  
+- `Do you speak English`  
+- `For Twins 1 Types`  
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello` 
 - `Grasshopper - Function syntax`  
@@ -64,7 +66,8 @@ ___
 - `Is it even`  
 - `Is it a palindrome`  
 - `Keep up the hoop`  
-- `Parse nice int from char problem`  
+- `Parse nice int from char problem` 
+- `Return the day`  
 - `Rock Paper Scissors`  
 - `Student's Final Grade`  
 - `Sum The Strings`  
