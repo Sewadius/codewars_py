@@ -5,6 +5,7 @@
 #### 7 kyu
 **Algorithms**  
 - `Factorial`  
+- `Leap Years`
 - `Only one`  
 
 **Arrays**
@@ -20,7 +21,8 @@
 **Mathematics**
 - `Is this a triangle`  
 
-**Strings**
+**Strings**  
+- `Anagram Detection`  
 - `Jaden Casing Strings`  
 
 ___
