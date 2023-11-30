@@ -2,6 +2,13 @@
 
 <img src='img/logo.jpeg' style="height:250px">
 
+#### 6 kyu
+**Arrays**
+- `Array.diff`
+
+**Strings**
+- `Duplicate Encoder`  
+
 #### 7 kyu
 **Algorithms**  
 - `Factorial`  
