@@ -69,6 +69,7 @@ ___
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello` 
 - `Grasshopper - Function syntax`  
+- `Grasshopper - Terminal game move function`  
 - `Hello Name or World`  
 - `Hex to Decimal`  
 - `Is it a number`  
