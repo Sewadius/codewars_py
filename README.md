@@ -56,7 +56,8 @@ ___
 - `Get Planet Name By ID`  
 - `Grasshopper - Debug`  
 - `Grasshopper - if else syntax debug`  
-- `Incorrect division method`
+- `Incorrect division method`  
+- `Multiply`  
 - `Return to Sanity`  
 - `Unfinished Loop`  
 - `Vexing Vanishing Values`  
@@ -69,6 +70,7 @@ ___
 - `Function 2 squaring an argument`   
 - `Grasshoper - Debug sayHello` 
 - `Grasshopper - Function syntax`  
+- `Grasshopper - Grade book`  
 - `Grasshopper - Terminal game move function`  
 - `Hello Name or World`  
 - `Hex to Decimal`  
