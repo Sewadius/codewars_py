@@ -6,7 +6,8 @@
 **Arrays**
 - `Array.diff`
 
-**Strings**
+**Strings**  
+- `Count characters in your string`  
 - `Duplicate Encoder`  
 
 #### 7 kyu
@@ -31,6 +32,7 @@
 **Strings**  
 - `Anagram Detection`  
 - `Jaden Casing Strings`  
+- `Remove anchor from URL`  
 
 ___
 
