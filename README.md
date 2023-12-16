@@ -10,6 +10,8 @@
 - `Count characters in your string`  
 - `Duplicate Encoder`  
 
+___ 
+
 #### 7 kyu
 **Algorithms**  
 - `Factorial`  
@@ -88,6 +90,7 @@ ___
 - `Sum without highest and lowest number`  
 - `Super Duper Easy`  
 - `Switch it Up`  
+- `Take the First N Elements`  
 - `Thinkful Logic Drills Traffic light`  
 - `Third Angle of a Triangle`  
 - `Transportation on vacation`  
