@@ -83,6 +83,7 @@ ___
 - `Is it even`  
 - `Is it a palindrome`  
 - `Keep up the hoop`  
+- `Leonardo Dicaprio and Oscars`  
 - `Parse nice int from char problem` 
 - `Return the day`  
 - `Rock Paper Scissors`  
@@ -125,5 +126,6 @@ ___
 - `If you can't sleep, just count sheep`  
 - `Is the string uppercase`  
 - `Remove exclamation marks`  
+- `Template Strings`  
 - `The Wide-Mouthed frog`  
 - `Vowel remover`  
